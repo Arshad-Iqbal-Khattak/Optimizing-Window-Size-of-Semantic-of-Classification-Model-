@@ -15,7 +15,7 @@ These datasets are widely recognized for citation analysis and provide a robust 
 ## Methodology
 We employed various machine learning and deep learning classification models to analyze the performance at different window sizes. The models included:
 
-- **Machine Learning Models**
+- **Machine Learning Models** (SVM, Naive Bayes,Decision Tree
 - **Deep Learning Models** (e.g., CNN, LSTM, GRU)
 
 The evaluation focused on identifying the window size that produces the most accurate and reliable results.
